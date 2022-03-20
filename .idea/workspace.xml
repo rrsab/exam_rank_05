@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="exam_rank_05_mod2-1" targetName="exam_rank_05_mod2-1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59c4b141-844b-46c9-bdc0-8193b119c173" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod00-2/Warlock.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod00-2/Warlock.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod00-2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/ASpell.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/ASpell.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/ATarget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/ATarget.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/Dummy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/Dummy.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/Fwoosh.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/Fwoosh.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod01-1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/BrickWall.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/BrickWall.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/BrickWall.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/BrickWall.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/Fireball.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/Fireball.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/Fireball.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/Fireball.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/Polymorph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/Polymorph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/Polymorph.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/Polymorph.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/SpellBook.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/SpellBook.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/SpellBook.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/SpellBook.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/TargetGenerator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/TargetGenerator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod02-1/TargetGenerator.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/mod02-1/TargetGenerator.hpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="26ZR6XgFP5h2yhg3X4hwh2SEBX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam_rank_05_mod2-1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exam_rank_05_mod2-1" TARGET_NAME="exam_rank_05_mod2-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exam_rank_05_mod2-1" RUN_TARGET_NAME="exam_rank_05_mod2-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59c4b141-844b-46c9-bdc0-8193b119c173" name="Changes" comment="" />
+      <created>1647628948335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647628948335</updated>
+      <workItem from="1647628950392" duration="31000" />
+      <workItem from="1647629014639" duration="3917000" />
+      <workItem from="1647634635397" duration="13000" />
+      <workItem from="1647634722077" duration="4513000" />
+      <workItem from="1647639337059" duration="360000" />
+      <workItem from="1647673834090" duration="1000" />
+      <workItem from="1647702012534" duration="2000" />
+      <workItem from="1647705072969" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
